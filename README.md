@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mohammed-Alanazii
-- 👀 I’m interested in ... Databases, Data analysis and ML
-- 🌱 I’m currently learning ... SQL
+- 👀 I’m interested in ... Databases, Data science and ML
+- 🌱 I’m currently learning ... SQL and data science
 - 💞️ I’m looking to collaborate on ... ML projects
 - 📫 How to reach me ... m.alenezi1994@gmail.com
 
